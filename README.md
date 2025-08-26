@@ -32,7 +32,7 @@ yolo pose train model=yolov8n-pose.pt data=config.yaml epochs=50 imgsz=640 devic
 ### Training Metrics
 
 <p align="center">
-  <img src="train_cli/results.png" alt="Training Metrics" width="100%"/>
+  <img src="results.png" alt="Training Metrics" width="100%"/>
 </p>
 
 ### Validation Predictions
