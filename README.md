@@ -38,7 +38,7 @@ yolo pose train model=yolov8n-pose.pt data=config.yaml epochs=50 imgsz=640 devic
 ### Validation Predictions
 
 <p align="center">
-  <img src="train_cli/val_batch0_pred.jpeg" alt="val_batch0_pred" width="70%"/>
+  <img src="val_batch0_pred.jpeg" alt="val_batch0_pred" width="70%"/>
 </p>
 
 ---
@@ -46,15 +46,15 @@ yolo pose train model=yolov8n-pose.pt data=config.yaml epochs=50 imgsz=640 devic
 ## Examples from Training
 
 <p align="center">
-  <img src="train_cli/train_batch0.jpeg" width="30%"/>
-  <img src="train_cli/train_batch1.jpeg" width="30%"/>
-  <img src="train_cli/train_batch2.jpeg" width="30%"/>
+  <img src="train_batch0.jpeg" width="30%"/>
+  <img src="train_batch1.jpeg" width="30%"/>
+  <img src="train_batch2.jpeg" width="30%"/>
 </p>
 
 <p align="center">
-  <img src="train_cli/train_batch1360.jpeg" width="30%"/>
-  <img src="train_cli/train_batch1361.jpeg" width="30%"/>
-  <img src="train_cli/train_batch1362.jpeg" width="30%"/>
+  <img src="train_batch1360.jpeg" width="30%"/>
+  <img src="train_batch1361.jpeg" width="30%"/>
+  <img src="train_batch1362.jpeg" width="30%"/>
 </p>
 
 ---
